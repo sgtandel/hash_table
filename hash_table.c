@@ -4,7 +4,6 @@
  * @brief Simple hash table implemetationto to store individiual param description
  *
  *
- * @copyright Copyright (c) 2023 by ABS, Inc. ALL RIGHTS RESERVED*
  */
 
 
