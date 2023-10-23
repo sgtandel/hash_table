@@ -4,7 +4,6 @@
  * @brief
  *
  *
- * @copyright Copyright (c) 2023 by ABS, Inc. ALL RIGHTS RESERVED*
  */
 #ifndef __HASH_TABLE_H__
 #define __HASH_TABLE_H__
