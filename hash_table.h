@@ -14,7 +14,6 @@
 #include <stdlib.h>
 #include <signal.h>
 #include <unistd.h>
-#include "ems_mqtt.h"
 #define DESC_HASH_CAPACITY    1024
 typedef struct
 {
